@@ -1,7 +1,7 @@
 # ODIIS DAO
-## Organização descentralizada de investimento de impacto social 
+**Organização descentralizada de investimento de impacto social** 
 
-### Visão Geral 
+## Visão Geral 
 Um dos maiores problemas do Brasil e de inúmeros outros países é a corrupção sistêmica. A tecnologia blockchain pode ser utilizada para garantir que o dinheiro público possa ser rastreado de forma mais transparente. O orçamento público pode ser acompanhado desde sua origem, por onde passa e para onde vai, contribuindo para a fiscalização e consequentemente o combate à corrupção e desperdício de recursos públicos. O mesmo se aplica a recursos oriundos do setor privado. 
 
 Além disso, é frequente o desvio de finalidade na utilização de recursos por parte de Organizações Não-Governamentais (ONGs) e outras instituições do terceiro setor. Também é difícil acompanhar acuradamente a aplicação e destinação dos recursos, bem como obter prestação de contas de maneira rápida e prática. Por isso, o uso de uma Organização Autônoma Descentralizada (DAO) atende ao interesse público e é uma possibilidade coerente considerando o estado-da-arte dessa tecnologia. 
@@ -10,7 +10,7 @@ A diferença da DAO para as plataformas de financiamento coletivo é o melhor ac
 
 Optou-se por não realizar a doação diretamente para o projeto de sua preferência para permitir que a decisão sobre o aporte seja tomada coletivamente pelos membros da DAO, de forma descentralizada, democrática e criteriosa. Além disso, isso evita maiores gastos por parte das instituições de terceiro setor que apresentarem projetos para análise (ex.: acompanhamento do projeto; aprovação das contas; contratação de equipe de gestão). 
 
-### Estrutura Organizacional
+## Estrutura Organizacional
 
 #### Habilidades necessárias para os participantes da DAO: 
    - **Jurídica**: compliance de terceiro setor e validação dos projetos, documentação dos projetos e representantes, prestação de contas, acompanhamento e relatórios correspondentes.
@@ -64,7 +64,7 @@ Podem criar futuramente suas próprias lideranças internas
 - LIBERAR RECURSOS PARA OS PROJETOS  
 - APROVAÇÃO DAS CONTAS DO PROJETOS
 
-### REMUNERAÇÃO 
+## REMUNERAÇÃO 
 Direcionar um percentual dos valores DOADOS para a manutenção da DAO . A taxa pode variar de 5% até 10% dos valores doados. O percentual é flexível, de acordo com o volume de valores recebidos. 
 
 Os membros do grupo de trabalho receberão uma remuneração conforme a atividade realizada. A Liderança receberá uma remuneração fixa. 
@@ -75,7 +75,7 @@ A remuneração só pode ocorrer quando tiver a previsão de orçamento para pag
 
 Todo o dinheiro destinado para remuneração e despesas deverá ser informado de forma transparente para todos os participantes da DAO.   
 
-### GOVERNANÇA
+## GOVERNANÇA
 
 **Mecanismo de Votação**
 
@@ -124,7 +124,7 @@ Todo o dinheiro destinado para remuneração e despesas deverá ser informado de
 
     - **Proposta de Exceção**: Se a votação for viciada ou contrária aos interesses da DAO, o Conselho pode vetar a decisão ou exercer o voto de minerva.
 
-### MACROPROCESSOS:
+## MACROPROCESSOS:
 O objetivo é realizar a captação de recursos para projetos junto a potenciais doadores e investir os recursos de forma transparente, permitindo acompanhamento contínuo, viabilizando o financiamento de projetos de alto impacto social. O que caracteriza um projeto de alto impacto social? Um projeto de impacto social é uma iniciativa que visa a proporcionar melhorias na qualidade de vida de uma determinada população.
 
 **CAPTAR E RECEBER DOAÇÕES -** As doações serão recebidas mediante análise técnica e jurídica (antecedentes do doador, prevenção à lavagem de dinheiro): as doações recebidas serão convertidas para uma *stablecoin* que funcione na mesma carteira utilizada pela DAO. 
@@ -180,17 +180,17 @@ Caso o projeto que fique em primeiro lugar exija mais recursos que os que a DAO 
 
 Após a aprovação para recebimento de recursos (votação em 2 (duas) fases), serão executadas as seguintes atividades em relação a cada projeto social - podem ser enviados documentos como relatórios, notas de pagamento, vídeos etc.
 
-**-**ALOCAR OS RECURSOS DOADOS PARA A CARTEIRA DO PROJETO. (OBS : Custódia fica sob a responsabilidade dos responsáveis pelo projeto da DAO, e a liberação dos recursos será realizada conforme o avanço na execução do projeto) 
+- ALOCAR OS RECURSOS DOADOS PARA A CARTEIRA DO PROJETO. (OBS : Custódia fica sob a responsabilidade dos responsáveis pelo projeto da DAO, e a liberação dos recursos será realizada conforme o avanço na execução do projeto) 
 
--DEFINIR OS PARTICIPANTES PARA ACOMPANHAMENTO DO PROJETO. 
+- DEFINIR OS PARTICIPANTES PARA ACOMPANHAMENTO DO PROJETO. 
 
-**-**ACOMPANHAMENTO DOS PROJETOS - CRONOGRAMA e INDICADORES (grau de conclusão do projeto, uso dos recursos conforme informado etc). Ex.: financeiro e questionário para o público alvo (como medir o desempenho), além de informações disponíveis em órgãos públicos. Validar as despesas e o fluxo de caixa do projeto. Obter depoimentos de pessoas impactadas nos projetos. Constatar se os alvos do projeto foram de fato atingidos e se condizem com o informado anteriormente (localidade, população beneficiada, prazo de execução, quantidade de pessoas, fases de implementação etc).
+- ACOMPANHAMENTO DOS PROJETOS - CRONOGRAMA e INDICADORES (grau de conclusão do projeto, uso dos recursos conforme informado etc). Ex.: financeiro e questionário para o público alvo (como medir o desempenho), além de informações disponíveis em órgãos públicos. Validar as despesas e o fluxo de caixa do projeto. Obter depoimentos de pessoas impactadas nos projetos. Constatar se os alvos do projeto foram de fato atingidos e se condizem com o informado anteriormente (localidade, população beneficiada, prazo de execução, quantidade de pessoas, fases de implementação etc).
 
--OS FISCAIS E AUDITORES realizam o parecer técnico do acompanhamento do Projeto - aprovando as contas e a documentação apresentada
+- OS FISCAIS E AUDITORES realizam o parecer técnico do acompanhamento do Projeto - aprovando as contas e a documentação apresentada
 
--REVOGAR PROJETOS PARA NÃO MAIS RECEBER DOAÇÕES**:** Caso a auditoria indique irregularidades, ou sejam praticadas as infrações listadas acima, ou se descubra desvio de finalidade no uso de recursos, prática de crime ou corrupção, ou qualquer circunstância que desvirtue o projeto ou o uso de recursos. 
+- REVOGAR PROJETOS PARA NÃO MAIS RECEBER DOAÇÕES: Caso a auditoria indique irregularidades, ou sejam praticadas as infrações listadas acima, ou se descubra desvio de finalidade no uso de recursos, prática de crime ou corrupção, ou qualquer circunstância que desvirtue o projeto ou o uso de recursos. 
 
-**ROADMAP - PRÓXIMOS PASSOS** 
+## ROADMAP - PRÓXIMOS PASSOS
 
 -  Token interno para pagamento e transferência automática para carteira. 
 -  Os membros remunerados da DAO poderão optar por receber os valores todos de uma vez ou por investir, parte deles ou a integralidade, no *pool* de investimento de terceiro
@@ -206,7 +206,7 @@ Após a aprovação para recebimento de recursos (votação em 2 (duas) fases), 
 - Adequação da DAO à legislação aplicável ao terceiro setor (conforme casos da Ethereum Foundation e WEB3 Foundation (Pokadolt) 
 
 
-### REFERÊNCIAS UTILIZADAS: 
+## REFERÊNCIAS UTILIZADAS: 
 The State of DAOs - By Alma DAO
 https://drive.google.com/file/d/1xPsTadnwSz-J2iE8BleQqx--GjpvYPHR/view
 
