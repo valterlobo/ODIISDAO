@@ -19,7 +19,7 @@ Optou-se por não realizar a doação diretamente para o projeto de sua preferê
    - **Financeira e contábil:**  para validar contas e auditar a parte financeira dos projetos aprovados, e acompanhar as prestações de contas..  
   - **Terceiro setor:** para auxiliar na busca de projetos de alto impacto social e na sua gestão.
 
-####  Cargos 
+###  Cargos 
 
 **CONSELHO:** O conselho vai ser eleito a cada 1 (um) ano -  a função do conselho é trazer agilidade à gestão e governança da DAO e executar algumas operações em casos de exceção.  Somente quem possuir a NFT de governança vai poder ser votado para talvez integrar o Conselho. O quórum de votação é de ⅔  dos participantes com a NFT de  Governança. Os 10 primeiros mais votados vão compor o Conselho Anual. 
 
@@ -31,7 +31,7 @@ Optou-se por não realizar a doação diretamente para o projeto de sua preferê
 
 **Revogação:** fazer o burn da NFT e remover o endereço da carteira da plataforma que hospeda a DAO. 
 
-#### Grupos de Trabalho (Guildas)
+### Grupos de Trabalho (Guildas)
 
 Grupos de trabalho  por  estrutura das atividades: ex.: relacionamento com os doadores.  Serão remunerados de forma simbólica, em montante fixo. 
 
